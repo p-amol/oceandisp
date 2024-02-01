@@ -1,4 +1,4 @@
-# ** oceandisp **
+# oceandisp
 
 Python code for computing the normalized dispersion relation of linear damped waves on the equatorial beta plane. This code computes the dispersion relation for Rayleigh friction and Laplacian friction numerically. 
 
