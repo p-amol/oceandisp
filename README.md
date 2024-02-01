@@ -27,7 +27,7 @@ od.example(disp='rayleigh')
 ```
 
 ## Reference
-Ref: P. Amol, D.Shankar (2024), Dispersion diagrams of linear damped waves on the equatorial beta plane, Ocean Modelling
+P. Amol, D.Shankar (2024), *Dispersion diagrams of linear damped waves on the equatorial beta plane*, Ocean Modelling
 
 ## Contact
 Contact prakashamol@gmail.com for any further information.
